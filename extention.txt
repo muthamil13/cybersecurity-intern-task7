@@ -1,0 +1,129 @@
+Always active Window - Always Visible
+On
+Description
+Simulate all whitelisted browser windows as active by spoofing the visibility state event and more!
+Version
+0.4.4
+Size
+< 1 MB
+ID
+ehllkhjndgnlokhomdlhgbineffifcbj
+Inspect views
+service worker (Inactive)
+Permissions
+Site access
+Allow this extension to read and change all your data on websites that you visit:
+
+On all sites
+Site settings
+Opens in new tab
+Pin to toolbar
+Allow in Incognito
+Warning: Google Chrome cannot prevent extensions from recording your browsing history. To disable this extension in Incognito mode, unselect this option.
+Collect errors
+Extension options
+Opens in new tab
+Open extension website
+Opens in new tab
+View in Chrome Web Store
+Opens in new tab
+Source
+Chrome Web Store
+Remove extension
+
+
+Copyfish 🐟 Free OCR Software
+On
+Description
+Copy, paste and translate text from any image, video or PDF.
+Version
+6.2.0
+Size
+< 1 MB
+ID
+eenjdnjldapjajjofmldgmkjaienebbj
+Inspect views
+service worker
+Permissions
+Display notifications
+Read data that you copy and paste
+Communicate with cooperating native applications
+Site access
+This extension can read and change your data on sites. You can control which sites the extension can access.
+Automatically allow access on the following sites
+Site settings
+Opens in new tab
+Pin to toolbar
+Allow in Incognito
+Warning: Google Chrome cannot prevent extensions from recording your browsing history. To disable this extension in Incognito mode, unselect this option.
+Allow access to file URLs
+Collect errors
+Extension options
+Opens in new tab
+View in Chrome Web Store
+Opens in new tab
+Source
+Chrome Web Store
+Remove extension
+
+
+Enable Copy Paste & Right Click
+On
+Description
+Enable Copy Paste & Right Click on websites that have disabled Copy Paste & Right Click.
+Version
+1.0
+Size
+2.2 MB
+ID
+moomnncijchljipbmkiblfbaaldinhde
+Inspect views
+service worker (Inactive)
+Permissions
+Site access
+Allow this extension to read and change all your data on websites that you visit:
+
+On all sites
+Site settings
+Opens in new tab
+Pin to toolbar
+Allow in Incognito
+Warning: Google Chrome cannot prevent extensions from recording your browsing history. To disable this extension in Incognito mode, unselect this option.
+Collect errors
+Open extension website
+Opens in new tab
+View in Chrome Web Store
+Opens in new tab
+Source
+Chrome Web Store
+Remove extension
+
+Google Docs Offline
+On
+Description
+Edit, create and view your documents, spreadsheets and presentations – all without Internet access.
+Version
+1.96.1
+Size
+< 1 MB
+ID
+ghbmnnjooekpmoecnnnilnnbdlolhkhi
+Inspect views
+service worker
+offscreendocument.html
+Permissions
+Site access
+This extension can read and change your data on sites. You can control which sites the extension can access.
+Automatically allow access on the following sites
+https://docs.google.com/*
+https://drive.google.com/*
+Site settings
+Opens in new tab
+Allow in Incognito
+Warning: Google Chrome cannot prevent extensions from recording your browsing history. To disable this extension in Incognito mode, unselect this option.
+Collect errors
+View in Chrome Web Store
+Opens in new tab
+Source
+Installed by default
+Remove extension
